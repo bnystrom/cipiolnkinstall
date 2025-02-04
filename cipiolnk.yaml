@@ -8,5 +8,5 @@ interactive-sections:
   - network
 locale:
   language: en_US
-  keyboard: 
-    layout: us
+keyboard: 
+  layout: us
