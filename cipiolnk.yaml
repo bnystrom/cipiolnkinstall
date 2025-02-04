@@ -4,9 +4,3 @@ identity:
   username: cipio
   realname: ''
   password: '$y$j9T$gV8I1wldvd2yhh4AbhhzY1$vzYZy1I/VB0Z1yMHtOAZnICTynA7KEKKoBuVG4Ljjy2'
-interactive-sections:
-  - network
-locale:
-  language: en_US
-keyboard: 
-  layout: us
